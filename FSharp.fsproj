@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="MilesAndChains.fs" />
+    <Compile Include="MilesAndYards.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
